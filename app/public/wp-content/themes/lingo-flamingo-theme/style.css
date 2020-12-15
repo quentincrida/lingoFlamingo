@@ -3,3 +3,6 @@ Theme Name: Lingo Flamingo
 Author: Quentin Crida
 Version: 1.0
 */
+body {
+    color: pink;
+}
