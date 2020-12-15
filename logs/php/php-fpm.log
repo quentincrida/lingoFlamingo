@@ -1,0 +1,12 @@
+[14-Dec-2020 15:06:29] NOTICE: fpm is running, pid 16650
+[14-Dec-2020 15:06:29] NOTICE: ready to handle connections
+[14-Dec-2020 15:07:49] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/FAUovuK01/php/php-fpm.socket
+[14-Dec-2020 15:07:49] ERROR: FPM initialization failed
+[14-Dec-2020 15:07:50] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/FAUovuK01/php/php-fpm.socket
+[14-Dec-2020 15:07:50] ERROR: FPM initialization failed
+[14-Dec-2020 15:07:50] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/FAUovuK01/php/php-fpm.socket
+[14-Dec-2020 15:07:50] ERROR: FPM initialization failed
+[14-Dec-2020 15:07:51] ERROR: Another FPM instance seems to already listen on /home/quentin/.config/Local/run/FAUovuK01/php/php-fpm.socket
+[14-Dec-2020 15:07:51] ERROR: FPM initialization failed
+[15-Dec-2020 10:53:14] NOTICE: fpm is running, pid 6221
+[15-Dec-2020 10:53:14] NOTICE: ready to handle connections
